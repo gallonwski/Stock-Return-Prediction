@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1JLLpuB25kMMMIZYClHzSqvsiYN2rSrG4
 """
 
-!pip -q install yfinance
+
 
 import warnings
 warnings.filterwarnings("ignore")
