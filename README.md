@@ -136,19 +136,20 @@ Regression of strategy returns against market returns provides:
 
 ---
 
-# Project Structure
+## Project Structure
 
+```
 Stock-Return-Prediction/
 │
 ├── Stock_Return_Prediction.ipynb
-│ Main analysis notebook containing the full research workflow
+│   Main analysis notebook containing the full research workflow
 │
 ├── stock_return_prediction.py
-│ Python script version of the analysis pipeline
+│   Python script version of the analysis pipeline
 │
 └── README.md
-Project documentation
-
+    Project documentation
+```
 
 ---
 
